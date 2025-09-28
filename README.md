@@ -103,7 +103,7 @@ The frontend will run on `http://localhost:3000` and communicate with the backen
 
 ## Deployment
 
-- Backend can be deployed on Heroku (Python/Flask).
+- Backend can be deployed on Heroku or Render (Python/Flask).
 - Frontend can be deployed on Vercel or Netlify.
 
 ## Contributing
